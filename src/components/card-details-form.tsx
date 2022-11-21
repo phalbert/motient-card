@@ -44,7 +44,7 @@ export default function CardDetailsForm() {
 
     return (
         <div className="w-[90%] md:w-1/3 absolute">
-            <div style={style} className="relative w-[70%] rounded-lg mx-auto -mb-24 shadow-lg h-52 p-4 flex flex-col justify-between">
+            <div style={style} className="relative w-[80%] md:w-[70%] rounded-lg mx-auto -mb-16 md:-mb-24 shadow-lg h-42 md:h-52 p-4 flex flex-col justify-between">
                 <div className="flex justify-between">
                     <img src="/images/chip.png" alt="chip" className="w-14 h-10 rounded-lg" />
                     <img src="/images/visa.png" alt="visa" className="w-16 h-10 rounded-lg" />
