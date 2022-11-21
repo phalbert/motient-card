@@ -1,6 +1,6 @@
 # example
 
-Example app
+Credit Card Form app
 
 # usage
 
